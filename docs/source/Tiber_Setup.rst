@@ -10,7 +10,6 @@ The first step is to go to the Intel Tiber official link:
 
 `Intel Tiber HomePage <https://www.intel.com/content/www/us/en/developer/tools/tiber/ai-cloud.html>`_ 
 
-
 This will lead to the Intel Tiber home page where you will be asked to Sign in or Sign up as shown in the image below. 
 
 .. figure:: Image/Tiber_home.png
@@ -18,7 +17,7 @@ This will lead to the Intel Tiber home page where you will be asked to Sign in o
     :align: center
     :alt: Missing Image Error
 
-.. image:: Image/Tiber_home.png
+.. image:: Tiber_home.png
 
 
 
