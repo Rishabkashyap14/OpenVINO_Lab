@@ -8,7 +8,7 @@ Sign Up for a New Account
 
 The first step is to go to the Intel Tiber official link:
 
-.. _Tiber_home: https://www.intel.com/content/www/us/en/developer/tools/tiber/ai-cloud.html 
+`Tiber Homepage: <https://www.intel.com/content/www/us/en/developer/tools/tiber/ai-cloud.html>` 
 
 This will lead to the Intel Tiber home page where you will be asked to Sign in or Sign up as shown in the image below. 
 
