@@ -17,8 +17,9 @@ This is a reference to `Intel Tiber HomePage`_.
 
 This will lead to the Intel Tiber home page where you will be asked to Sign in or Sign up as shown in the image below. 
 
-.. image:: Images/Intel_Tiber_Homescreen.png
-    :width: 200
-    :height: 100
-    :alt: Image for Intel Tiber Homepage missing here
+.. image:: Image/Tiber_home.png
+    :width: 300px
+    :align: center
+    :alt: Missing Image Error
+
 
