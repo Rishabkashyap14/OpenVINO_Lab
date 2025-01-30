@@ -12,6 +12,6 @@ The first step is to go to the Intel Tiber official link:
 
 This will lead to the Intel Tiber home page where you will be asked to Sign in or Sign up as shown in the image below. 
 
-.. image:: ./Images/Intel_Tiber_Homescreen.png
+.. image:: Images/Intel_Tiber_Homescreen.png
     :width: 400
     :alt: Image for Intel Tiber Homepage missing here
