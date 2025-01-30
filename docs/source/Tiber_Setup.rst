@@ -15,3 +15,4 @@ This will lead to the Intel Tiber home page where you will be asked to Sign in o
 .. figure:: Tiber_home.png
     :width: 70%
     :alt: Image Not Found
+    :align: center
