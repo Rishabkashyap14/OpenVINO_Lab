@@ -8,16 +8,12 @@ Sign Up for a New Account
 
 The first step is to go to the Intel Tiber official link:
 
-`Intel Tiber HomePage <https://www.intel.com/content/www/us/en/developer/tools/tiber/ai-cloud.html>`_
-
-This is a reference to `Intel Tiber HomePage`_.
-
-.. _Intel Tiber HomePage: https://www.intel.com/content/www/us/en/developer/tools/tiber/ai-cloud.html
+`Intel Tiber HomePage <https://www.intel.com/content/www/us/en/developer/tools/tiber/ai-cloud.html>`_ 
 
 
 This will lead to the Intel Tiber home page where you will be asked to Sign in or Sign up as shown in the image below. 
 
-.. image:: Image/Tiber_home.png
+.. figure:: Image/Tiber_home.png
     :width: 300px
     :align: center
     :alt: Missing Image Error
