@@ -22,3 +22,4 @@ Contents
    usage
    api 
    test_page
+   Tiber_Setup
