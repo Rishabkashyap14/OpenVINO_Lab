@@ -16,10 +16,13 @@ Introduction to the Console
 |
 
 Upon signing in, the console home screen is the first thing visible to users as seen from the above figure. The console itself has many features, but the three main highlighted ones in the image above are as follows:
+|
 1. My Profile
+|
 2. Home catalog
+|
 3. Jupyter Notebook Compute Instance
-
+|
 For this lab, only these three highlighted elements shown in Figure 1 are important, specifically number 3.
 
 
