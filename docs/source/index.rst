@@ -19,3 +19,4 @@ Contents
 
    Tiber_Setup
    Console_guide
+   Jupyter
