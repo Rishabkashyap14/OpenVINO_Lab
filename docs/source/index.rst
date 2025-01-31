@@ -1,18 +1,16 @@
-Welcome to Lumache's documentation!
+CSE524: Accelerator Design Lab 2
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+Welcome to Lab 2 of the Accelerator Design class. In this lab, we are going to be optimizing the BERT model using OpenVINO, a deployment and inferencing tool from Intel used to test and optimize ML models.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Objective of this Lab
+--------------
+
+The BERT transformer model studied in the class was one of the most influential models created in recent years, introducing a new architecture that made Natural Language Processing a much simpler task. The drawback however is the fact that the model is heavy because of the transformer, and takes up a lot of compute power, making it difficult to execute without using a GPU. We are given the BERT model and the xyz dataset. Though it performs well, the aim is to try and optimize it using techniques such as quantization and pruning to reduce the size of th model whille preserving the original efficiency. 
 
 .. note::
 
-   This project is under active development.
-Lumache hosts its documentation on Read the Docs.
+   The submission deadline for this project is 00/00/2025. 
 
 Contents
 --------
