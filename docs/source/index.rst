@@ -17,5 +17,5 @@ Contents
 
 .. toctree::
 
-   usage
    Tiber_Setup
+   Console_guide
