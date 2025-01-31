@@ -18,6 +18,4 @@ Contents
 .. toctree::
 
    usage
-   api 
-   test_page
    Tiber_Setup
