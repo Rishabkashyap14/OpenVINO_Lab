@@ -10,7 +10,7 @@ The BERT transformer model studied in the class was one of the most influential 
 
 .. note::
 
-   The submission deadline for this project is 00/00/2025. 
+   The submission deadline for this lab is 00/00/2025. 
 
 Contents
 --------

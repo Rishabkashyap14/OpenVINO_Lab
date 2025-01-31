@@ -24,7 +24,6 @@ This will lead to the Intel Tiber home page where it will ask for the Sign-in or
 This website gives an introduction to the Developer Cloud platform and all the different tools and features it provides us with.
 At the center of the screen, there is a sign-up button if you do not already have an account associated with Tiber. Click on this button to begin creating your account.
 Enter the desired Email ID in the Sign up option shown on the screen (Preferably the ASU ID, any other ID can be used upon special request).
-Once this is done, the following screen is shown below. Enter all the required details and click on the **Next: Verify your Email** option.
 
 |
 
@@ -35,7 +34,23 @@ Once this is done, the following screen is shown below. Enter all the required d
 
 |
 
+
+Once this is done, the following screen is shown below. Enter all the required details and click on the **Next: Verify your Email** option.
+
+|
+
+.. figure:: Images/SignUp_Details.png
+    :width: 100%
+    :alt: Image Not Found
+    :align: center
+
+|
+
 A verification confirmation should be sent via email ID with a link provided in the email. This verification email may take anywhere between a couple of seconds to 5 minutes to reach the account, so do stay a little patient with this!
+
+Sign In to the Console
+----------------------
+
 Upon clicking the link provided in the verification email the initial login or Sign In page appears. Put in the details entered in the Sign-Up section to get the below screen:
 
 |
