@@ -16,6 +16,7 @@ Contents
 --------
 
 .. toctree::
+   :maxdepth: 2
 
    Tiber_Setup
    Console_guide
