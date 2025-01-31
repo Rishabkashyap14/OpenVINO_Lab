@@ -11,7 +11,7 @@ Introduction to the Console
 .. figure:: Images/Console_guide.png
     :width: 100%
     :alt: Image Not Found
-    :align: centerx
+    :align: center
 
 |
 
