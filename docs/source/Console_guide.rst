@@ -11,8 +11,7 @@ Introduction to the Console
 .. figure:: Images/Console_guide.png
     :width: 100%
     :alt: Image Not Found
-    :align: center
-    Figure 1: Console Home Page
+    :align: centerx
 
 |
 
@@ -35,7 +34,6 @@ To start with, the title bar consists of the Tiber logo, which upon being clicke
     :width: 100%
     :alt: Image Not Found
     :align: center
-    Figure 2: Console Help Option
 
 |
 
@@ -49,11 +47,10 @@ Both browsing documentation as well as the Documentation option given below the 
 
 |
 
-.. figure:: Images/Console_Help_option.png
+.. figure:: Images/Tiber_Documentation.png
     :width: 100%
     :alt: Image Not Found
     :align: center
-    Figure 3: Browsing Documentation
 
 |
 
