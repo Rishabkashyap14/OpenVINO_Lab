@@ -53,7 +53,7 @@ This should take you to the Tiber Home Page as displayed below, confirming that 
 
 |
 
-.. figure:: Images/Intel_SignIn.png
+.. figure:: Images/Tiber_Console.png
     :width: 100%
     :alt: Image Not Found
     :align: center
