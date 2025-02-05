@@ -46,7 +46,7 @@ Help Options
 Documentation
 +++++++++++++
 
-Both browsing documentation as well as the Documentation option given below the profile option explain how to quickly get started with setting up the rest of the profile and choosing which compute instance or jupyter notebook to work with. Utilize the *browse ocumentation* option for a more detailed and clearer explanation to set up the console. The documentation also has video tutorials to easily guide programmers on getting started.
+Both browsing documentation as well as the Documentation option given below the profile option explain how to quickly get started with setting up the rest of the profile and choosing which compute instance or jupyter notebook to work with. Utilize the *browse documentation* option for a more detailed and clearer explanation to set up the console. The documentation also has video tutorials to easily guide programmers on getting started.
 
 |
 
@@ -65,7 +65,7 @@ This option leads to the Developers community, where discussions based on differ
 Submit a Ticket
 +++++++++++++++
 
-In case of any issues with the console itself, this option can be used to report a problem with the console directly to the developers of the consolem, whi can then contact you directly for immediate fixes. Ensure to submit the account number reference in this in order for them to trace your system, found in the profile section explained below.
+In case of any issues with the console itself, this option can be used to report a problem with the console directly to the developers of the console, who can then contact you directly for immediate fixes. Ensure to submit the account number reference in this in order for them to trace your system, found in the profile section explained below.
 
 My Profile
 ##########
